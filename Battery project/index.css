@@ -1,0 +1,9 @@
+#battery{
+    border: 5px solid black;
+    height: 100px;
+    width: 30%;
+    display: flex;
+}
+#percentage{
+    background-color: rgb(255, 183, 0) ;
+}
